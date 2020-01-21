@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/InvestAdvisorClient/static/css/main.f5b4930e.chunk.css",
+    "main.js": "/InvestAdvisorClient/static/js/main.8e7106ee.chunk.js",
+    "main.js.map": "/InvestAdvisorClient/static/js/main.8e7106ee.chunk.js.map",
+    "runtime-main.js": "/InvestAdvisorClient/static/js/runtime-main.774c1489.js",
+    "runtime-main.js.map": "/InvestAdvisorClient/static/js/runtime-main.774c1489.js.map",
+    "static/js/2.cb540fef.chunk.js": "/InvestAdvisorClient/static/js/2.cb540fef.chunk.js",
+    "static/js/2.cb540fef.chunk.js.map": "/InvestAdvisorClient/static/js/2.cb540fef.chunk.js.map",
+    "index.html": "/InvestAdvisorClient/index.html",
+    "precache-manifest.715fdf606f31d1bf161f2a0cb5b0142a.js": "/InvestAdvisorClient/precache-manifest.715fdf606f31d1bf161f2a0cb5b0142a.js",
+    "service-worker.js": "/InvestAdvisorClient/service-worker.js",
+    "static/css/main.f5b4930e.chunk.css.map": "/InvestAdvisorClient/static/css/main.f5b4930e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.774c1489.js",
+    "static/js/2.cb540fef.chunk.js",
+    "static/css/main.f5b4930e.chunk.css",
+    "static/js/main.8e7106ee.chunk.js"
+  ]
+}
